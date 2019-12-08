@@ -34,7 +34,7 @@ window.onload = function(){
         if(route){
             contentDiv.innerHTML=route.content;
         }else{
-            mainContentDiv.innerHTML = "BAd Web";
+            //mainContentDiv.innerHTML = "BAd Web";
         }
         
     }
