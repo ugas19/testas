@@ -4,7 +4,7 @@ html,body{
 	
 }
 main{
-	background-image: url("images/background.png");
+	background-image: url("https://ugas19.github.io/testas/images/background.png");
 	width: 100%;
 	height: 100%;
 	background-repeat: no-repeat; /* Do not repeat the image */
