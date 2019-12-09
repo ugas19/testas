@@ -158,7 +158,7 @@ var script = document.createElement('script');
 script.onload = function () {
     //do stuff with the script
 };
-script.src = "../js/slideshow.js";
+script.src = "js/slideshow.js";
 
 document.head.appendChild(script);
 }
