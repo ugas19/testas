@@ -109,13 +109,13 @@ var homePage = `
 									
 								<div class="w3-content" style="max-width:100%; height:79.3%">
 										<img class="mySlides w3-animate-right" src="images/background-front.png" style="width:100%; height:100%">
-										<img class="mySlides w3-animate-right" src="..images/house_2.jpg" style="width:100%; height:100%">
-										<img class="mySlides w3-animate-right" src="../images/house_3.jpg" style="width:100%; height:100%">
-										<img class="mySlides w3-animate-right" src="../images/house_2.jpg" style="width:100%; height:100%">
+										<img class="mySlides w3-animate-right" src="images/house_2.jpg" style="width:100%; height:100%">
+										<img class="mySlides w3-animate-right" src="images/house_3.jpg" style="width:100%; height:100%">
+										<img class="mySlides w3-animate-right" src="images/house_2.jpg" style="width:100%; height:100%">
 									  </div>
 									  <div class="text_box">
 										<div class="text_box_logo">
-												<img src="../images/text_box_logo.png" alt="Third slide">
+												<img src="images/text_box_logo.png" alt="Third slide">
 										</div>
 										<div class="text_box_text">
 											<div class="text_box_text_center">
